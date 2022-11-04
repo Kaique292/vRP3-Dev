@@ -1,4 +1,2 @@
-build/*
-data/*
-txData/*
+\[myserver\]/*
 *.bat
