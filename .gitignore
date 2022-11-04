@@ -1,5 +1,4 @@
-
-txData/*
-data/cache/*
-*.bat
 build/*
+data/*
+txData/*
+*.bat
